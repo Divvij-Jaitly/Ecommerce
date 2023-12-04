@@ -1,0 +1,17 @@
+.Navbar{
+    border-bottom: 1px outset grey;
+}
+.Navtext{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 14px;
+    color: #282C3F;
+    margin-top: 30px;
+}
+
+.me-2{
+    margin-top: 30px;
+}
+
+.icon{
+    margin-top: 30px;
+}
